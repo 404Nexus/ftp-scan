@@ -46,3 +46,8 @@ python3 ftp-scan.py -h
 python3 ftp-scan.py -t 192.168.1.10
 python3 ftp-scan.py -t 192.168.1.0/24 -p- -v -o result.txt
 
+
+---
+
+🧑‍💻 Coded by: 404Nexus 
+🕵️‍♂️ Bug Bounty Hunter | Ethical Hacker | VAPT | 2025
