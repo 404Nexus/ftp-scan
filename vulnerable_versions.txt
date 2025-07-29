@@ -1,0 +1,5 @@
+vsFTPd 2.3.4
+ProFTPD 1.3.5
+FileZilla Server 0.9.41
+Gene6 FTP Server 3.10.0
+Serv-U FTP Server 15.1.6
