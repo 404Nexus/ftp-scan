@@ -36,6 +36,8 @@ cd ftp-vapt-scanner
 # 2. (Optional) Create a virtual environment
 python3 -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
+
 
 # 3. Run the scanner
 python3 ftp-scan.py -h
