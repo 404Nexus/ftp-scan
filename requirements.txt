@@ -1,0 +1,8 @@
+# FTP Scanner - Dependencies
+# Supports Python 3.6+
+
+# For colored terminal output
+colorama>=0.4.6
+
+# (Optional) For rich terminal output (progress bars/logs)
+# rich>=13.0.0
