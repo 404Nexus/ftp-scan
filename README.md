@@ -49,5 +49,9 @@ python3 ftp-scan.py -t 192.168.1.0/24 -p- -v -o result.txt
 
 ---
 
-🧑‍💻 Coded by: 404Nexus 
-🕵️‍♂️ Bug Bounty Hunter | Ethical Hacker | VAPT | 2025
+## ✍ Author
+
+*Coded by:* [404Nexus](https://github.com/404Nexus)  
+🔍 Bug Bounty Hunter | 🛡 Ethical Hacker | ⚙ VAPT | 📅 2025
+
+---
