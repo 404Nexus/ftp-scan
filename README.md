@@ -5,14 +5,41 @@ A powerful and modular Python-based FTP vulnerability scanner for Linux systems,
 
 A Linux-compatible FTP vulnerability scanner for penetration testers and cybersecurity analysts.
 
+---
+
 ## 🚀 Features
-- Full port scan with `-p-`
-- Anonymous login detection
-- Banner grabbing & vulnerable version match
-- Save anonymous creds with `-o`
-- Verbose mode with `-v`
-- Target single IP or subnet
-- Help menu with `-h` or `--help`
+- 🔍 Port 21 FTP scan
+- 🌐 Full port scan with `-p-`
+- 🔐 Anonymous login detection
+- 📄 File listing from anonymous login
+- 🎯 Target CIDR/network scan
+- 🧠 Verbose logging with `-v`
+- 💾 Save credentials with `-o`
+- 📡 Banner grabbing & vulnerability match
+- 🆘 Help menu with `-h` / `--help`
+
+---
+
+## 📥 How to Install
+
+> 🔧 **Prerequisites:**  
+> - Python 3.x  
+> - Linux system (Kali, Parrot OS, Ubuntu, etc.)
+
+### 🧪 Step-by-step:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourname/ftp-vapt-scan.git
+cd ftp-vapt-scanner
+
+# 2. (Optional) Create a virtual environment
+python3 -m venv venv
+source venv/bin/activate
+
+# 3. Run the scanner
+python3 ftp-scan.py -h
+
 
 ## 📦 Usage
 
