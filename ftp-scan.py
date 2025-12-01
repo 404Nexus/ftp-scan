@@ -65,7 +65,7 @@ def parse_targets(target):
     return targets
 
 def main():
-    parser = argparse.ArgumentParser(description="FTP VAPT Scanner - by Kuldeep (2025)")
+    parser = argparse.ArgumentParser(description="FTP VAPT Scanner - (Latest Version)")
     parser.add_argument("-t", "--target", required=True, help="Target IP or CIDR (e.g., 192.168.1.1 or 192.168.1.0/24)")
     parser.add_argument("-p-", "--allports", action="store_true", help="Scan all ports (1-65535)")
     parser.add_argument("-v", "--verbose", action="store_true", help="Enable verbose mode")
